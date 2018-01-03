@@ -1,0 +1,4 @@
+# Weights
+/YOLO/yolo-voc.weights
+/SSD-Tensorflow/checkpoints/ssd_300_vgg.ckpt.zip
+/YOLO/darknet19_448.conv.23
