@@ -1,0 +1,125 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@Article{DBLP:journals/corr/ChenMWLX16,
+  Title                    = {Multi-View 3D Object Detection Network for Autonomous Driving},
+  Author                   = {Xiaozhi Chen and
+ Huimin Ma and
+ Ji Wan and
+ Bo Li and
+ Tian Xia},
+  Journal                  = {CoRR},
+  Year                     = {2016},
+  Volume                   = {abs/1611.07759},
+
+  Archiveprefix            = {arXiv},
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.org/rec/bib/journals/corr/ChenMWLX16},
+  Eprint                   = {1611.07759},
+  Timestamp                = {Mon, 06 Nov 2017 17:26:29 +0100},
+  Url                      = {http://arxiv.org/abs/1611.07759}
+}
+
+@Article{GAN,
+  Title                    = {Generative Adversarial Nets},
+  Author                   = {Goodfellow, Ian and Pouget-Abadie, Jean and Mirza, Mehdi and Xu, Bing and Warde-Farley, David and Ozair, Sherjil and Courville, Aaron and Bengio, Yoshua},
+  Journal                  = {Curran Associates, Inc.},
+  Year                     = {2014},
+
+  Timestamp                = {Wed, 07 Jun 2017 14:42:54 +0200},
+  Url                      = {http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf}
+}
+
+@Article{SSD,
+  Title                    = {{SSD:} Single Shot MultiBox Detector},
+  Author                   = {Wei Liu and Dragomir Anguelov and Dumitru Erhan and Christian Szegedy and Scott E. Reed and Cheng{-}Yang Fu and Alexander C. Berg},
+  Journal                  = {CoRR},
+  Year                     = {2015},
+  Volume                   = {abs/1512.02325},
+
+  Archiveprefix            = {arXiv},
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.org/rec/bib/journals/corr/LiuAESR15},
+  Eprint                   = {1512.02325},
+  Timestamp                = {Wed, 07 Jun 2017 14:42:54 +0200},
+  Url                      = {http://arxiv.org/abs/1512.02325}
+}
+
+@Article{YOLO,
+  Title                    = {You Only Look Once: Unified, Real-Time Object Detection},
+  Author                   = {Joseph Redmon and Santosh Kumar Divvala and Ross B. Girshick and Ali Farhadi},
+  Journal                  = {CoRR},
+  Year                     = {2015},
+  Volume                   = {abs/1506.02640},
+
+  Archiveprefix            = {arXiv},
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.org/rec/bib/journals/corr/RedmonDGF15},
+  Eprint                   = {1506.02640},
+  Timestamp                = {Wed, 07 Jun 2017 14:40:10 +0200},
+  Url                      = {http://arxiv.org/abs/1506.02640}
+}
+
+@Article{RCNN,
+  Title                    = {Faster {R-CNN:} Towards Real-Time Object Detection with Region Proposal Networks},
+  Author                   = {Shaoqing Ren and Kaiming He and Ross B. Girshick and Jian Sun},
+  Journal                  = {CoRR},
+  Year                     = {2015},
+  Volume                   = {abs/1506.01497},
+
+  Archiveprefix            = {arXiv},
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.org/rec/bib/journals/corr/RenHG015},
+  Eprint                   = {1506.01497},
+  Timestamp                = {Wed, 07 Jun 2017 14:42:40 +0200},
+  Url                      = {http://arxiv.org/abs/1506.01497}
+}
+
+@Article{VGG,
+  Title                    = {Very Deep Convolutional Networks for Large-Scale Image Recognition},
+  Author                   = {Karen Simonyan and Andrew Zisserman},
+  Journal                  = {CoRR},
+  Year                     = {2014},
+  Volume                   = {abs/1409.1556},
+
+  Archiveprefix            = {arXiv},
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.org/rec/bib/journals/corr/SimonyanZ14a},
+  Eprint                   = {1409.1556},
+  Timestamp                = {Wed, 07 Jun 2017 14:41:51 +0200},
+  Url                      = {http://arxiv.org/abs/1409.1556}
+}
+
+@Article{googlenet,
+  Title                    = {Going Deeper with Convolutions},
+  Author                   = {Christian Szegedy and Wei Liu and Yangqing Jia and Pierre Sermanet and Scott E. Reed and Dragomir Anguelov and Dumitru Erhan and Vincent Vanhoucke and Andrew Rabinovich},
+  Journal                  = {CoRR},
+  Year                     = {2014},
+  Volume                   = {abs/1409.4842},
+
+  Archiveprefix            = {arXiv},
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.org/rec/bib/journals/corr/SzegedyLJSRAEVR14},
+  Eprint                   = {1409.4842},
+  Timestamp                = {Wed, 07 Jun 2017 14:40:42 +0200},
+  Url                      = {http://arxiv.org/abs/1409.4842}
+}
+
+@Article{resnet,
+  Title                    = {ReNet: {A} Recurrent Neural Network Based Alternative to Convolutional Networks},
+  Author                   = {Francesco Visin and Kyle Kastner and Kyunghyun Cho and Matteo Matteucci and Aaron C. Courville and Yoshua Bengio},
+  Journal                  = {CoRR},
+  Year                     = {2015},
+  Volume                   = {abs/1505.00393},
+
+  Archiveprefix            = {arXiv},
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.org/rec/bib/journals/corr/VisinKCMCB15},
+  Eprint                   = {1505.00393},
+  Timestamp                = {Wed, 07 Jun 2017 14:41:39 +0200},
+  Url                      = {http://arxiv.org/abs/1505.00393}
+}
+
+@comment{jabref-meta: databaseType:bibtex;}
+
