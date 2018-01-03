@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{The Data: Pascal VOC}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Pascal VOC and Object Detection}{section.2}% 3
+\BOOKMARK [1][-]{section.3}{Noise Patterns and Object Detection}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Motivation: Why does Noise on Images matter?}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Average Filtering Blur and Salt and Pepper Noise}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{The Object Detector: Single Shot Multibox Detector \(SSD\)}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{The Backbone: VGG16}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Moving from Classification to Object Detection}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{SSD in TensorFlow}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Precision/Recall and Mean Average Precision}{}% 11
+\BOOKMARK [1][-]{section.6}{Perspectivation}{}% 12
+\BOOKMARK [2][-]{subsection.6.1}{Generative Adversarial Neural Network}{section.6}% 13
+\BOOKMARK [2][-]{subsection.6.2}{Image Augmentation}{section.6}% 14
+\BOOKMARK [2][-]{subsection.6.3}{Sensor Fusion}{section.6}% 15
+\BOOKMARK [1][-]{section*.11}{Appendices}{}% 16
+\BOOKMARK [1][-]{Appendix.1.A}{SSD-300's Mean Average Precision on Pascal VOC}{}% 17

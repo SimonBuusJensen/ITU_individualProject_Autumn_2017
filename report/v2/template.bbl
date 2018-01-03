@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+
+\bibitem{GAN}
+Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,
+  Sherjil Ozair, Aaron Courville, and Yoshua Bengio.
+\newblock Generative adversarial nets.
+\newblock {\em Curran Associates, Inc.}, 2014.
+
+\bibitem{SSD}
+Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott~E. Reed,
+  Cheng{-}Yang Fu, and Alexander~C. Berg.
+\newblock {SSD:} single shot multibox detector.
+\newblock {\em CoRR}, abs/1512.02325, 2015.
+
+\bibitem{YOLO}
+Joseph Redmon, Santosh~Kumar Divvala, Ross~B. Girshick, and Ali Farhadi.
+\newblock You only look once: Unified, real-time object detection.
+\newblock {\em CoRR}, abs/1506.02640, 2015.
+
+\bibitem{RCNN}
+Shaoqing Ren, Kaiming He, Ross~B. Girshick, and Jian Sun.
+\newblock Faster {R-CNN:} towards real-time object detection with region
+  proposal networks.
+\newblock {\em CoRR}, abs/1506.01497, 2015.
+
+\bibitem{VGG}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em CoRR}, abs/1409.1556, 2014.
+
+\bibitem{googlenet}
+Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott~E. Reed,
+  Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich.
+\newblock Going deeper with convolutions.
+\newblock {\em CoRR}, abs/1409.4842, 2014.
+
+\bibitem{resnet}
+Francesco Visin, Kyle Kastner, Kyunghyun Cho, Matteo Matteucci, Aaron~C.
+  Courville, and Yoshua Bengio.
+\newblock Renet: {A} recurrent neural network based alternative to
+  convolutional networks.
+\newblock {\em CoRR}, abs/1505.00393, 2015.
+
+\end{thebibliography}
